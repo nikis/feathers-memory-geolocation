@@ -17,7 +17,7 @@ const service = require('feathers-memory-geolocation');
 
 const store = [
     { id:1, name:'New York', lat:40.716655, lon:-74.002958},
-    { id:2, name:'San Francisco', lat:37.773391, long:-122.419726},
+    { id:2, name:'San Francisco', lat:37.773391, lon:-122.419726},
     ....
 ]
 
