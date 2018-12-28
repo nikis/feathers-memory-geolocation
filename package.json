@@ -1,7 +1,7 @@
 {
   "name": "feathers-memory-geolocation",
   "description": "In-memory service adapter with geolocation support for featherjs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/https://github.com/nikis/feathers-memory-geolocation",
   "main": "lib/",
   "keywords": [
